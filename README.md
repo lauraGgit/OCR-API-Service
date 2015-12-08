@@ -1,0 +1,1 @@
+A flask based OCR API based off of [Bobby Grayson's tutorial on Real Python](https://realpython.com/blog/python/setting-up-a-simple-ocr-server/) and modified using [Miguel Grinberg's RESTFUL Api Tutorial] (http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
